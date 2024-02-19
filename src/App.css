@@ -1,0 +1,35 @@
+* {
+  margin: 10px 20px;
+  font-family: "Rubik", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+.banner-image{
+  width: 80%;
+  height: 60vh;
+  object-fit: cover;
+}
+
+a {
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(162, 81, 162);
+}
+
+.custom-nav{
+  margin-left: auto;
+  color: #000000;
+}
+
+.dropdown-hover:hover {
+  display: block;
+}
+
+.dropdown-sm {
+  height: 50px;
+}
+
