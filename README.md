@@ -1,8 +1,20 @@
-# React + Vite
+# Klang Valley Public Transit Web App 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### This project aims to provide users in the Klang Valley region with essential tools and information related to public transportation.
 
-Currently, two official plugins are available:
+### Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Live Train Line Status Updates: Get real-time updates on the status of train lines in the Klang Valley area via Web API.
+
+Fare Calculator: A demo fare calculator to estimate the cost of your journey based on starting and ending points.
+
+Park and Ride Facilities Check: Find nearby park and ride facilities for convenient commuting.
+
+Feedback Form: Users may provide feedback and submit complaints on public transport services.
+
+### Notes
+
+This front-end project is built with React.js and Bootstrap for styling and layout. The backend is WIP and will be updated.
+
+
+
